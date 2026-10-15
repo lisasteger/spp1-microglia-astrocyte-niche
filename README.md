@@ -7,7 +7,7 @@ The notebooks reproduce all figures, statistics and supplementary tables of the 
 
 | Cohort | Source | Folder expected by the notebooks |
 |---|---|---|
-| Own cohort (Xenium, 247-gene panel): WT 12 mo, WT 3 mo, AQP4 KO 3 mo | Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX (`own_cohort_xenium_247panel.h5ad`) | `data/` |
+| Own cohort (Xenium, 247-gene panel): WT 12 mo, WT 3 mo, AQP4 KO 3 mo | Zenodo: https://doi.org/10.5281/zenodo.23403367 (`own_cohort_xenium_247panel.h5ad`) | `data/` |
 | Public Xenium cohort: WT 2.5, 5.7, 13.4 mo and TgCRND8 2.5, 5.7, 17.9 mo | 10x Genomics, "Xenium In Situ Analysis of Alzheimer's Disease Mouse Model Brain Coronal Sections from One Hemisphere Over a Time Course" (CC BY 4.0). Download the six output bundles. | `data/Xenium_V1_FFPE_*_outs/` |
 | Public CosMx cohort: four 4 mo and four 24 to 25 mo WT mice | SenNet Aged Mouse Brain Spatial Transcriptomics Collection, https://doi.org/10.60586/SNT249.TPCD.565 (run 2, files `05_Schafer_F1_236_YF01` to `08_Schafer_F4_243_YF04`) | `age_nature_dataset/` |
 
